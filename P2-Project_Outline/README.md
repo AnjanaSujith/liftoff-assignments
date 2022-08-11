@@ -7,12 +7,17 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Overview
+Volunteer Organizer App. This is an app where users can signup to volunteer for events created by organizations. Users (both volunteers and organizations) can then review the events/volunteers. 
 ### Features
-Include Features here
+1.Users Authentication/Authorization (users can signup as Organizations or Volunteers and login)
+2.Organization users can create, updated, and delete volunteer events
+3.Volunteer users can sign up for events
+4.Users can search for Volunteers, Events, or Organizations
+5.Organizations can review volunteers and volunteers can review organizations/events
 ### Technologies
-Include Technologies here
+Java, Spring Boot, MySQL, HTML, CSS, Thymeleaf
 ### What I'll Have to Learn
-Include what you will need to learn here
+As this is my first group project everything is a new learning for me
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/hFPAhBlX/volunteer-organizer-project-board

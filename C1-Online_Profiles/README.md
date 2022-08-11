@@ -10,7 +10,7 @@ For this assignment you will need to upload your resume and provide links to you
  https://github.com/AnjanaSujith
  
 ### LinkedIn
-linkedin.com/in/anjana-nair-b9a410228
+https://www.linkedin.com/in/anjana-nair-b9a410228/
 
 ### Resume
 You will need to upload a .PDF of your resume to this repo, or connect with your mentor on an alternate way of submitting your resume.
